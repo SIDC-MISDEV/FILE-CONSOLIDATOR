@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FILE_CONSOLIDATOR.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SOURCE_FILES" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\ProjectSAPHANA\</Value>
+    </Setting>
+    <Setting Name="DESTINATION_FILES" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\sidc\Desktop\Consolidated\</Value>
+    </Setting>
+    <Setting Name="FILE_EXTENSION" Type="System.String" Scope="User">
+      <Value Profile="(Default)">*.zip</Value>
+    </Setting>
+    <Setting Name="FOR_INTEG_FILES" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\sidc\Desktop\For Integration\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
